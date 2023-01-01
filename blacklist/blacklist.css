@@ -1,0 +1,15 @@
+body
+	{
+    background-color: #323232;
+    color: #eee;
+    margin: 0;
+	}
+
+#blacklist 
+	{
+	image-rendering: pixelated;
+	width:100vw;
+	height:100vh;
+	background: #323232 url('blacklist.png') no-repeat center;
+	background-size:auto 80vh;
+	}

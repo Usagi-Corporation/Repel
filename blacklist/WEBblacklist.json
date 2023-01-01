@@ -1,0 +1,276 @@
+{
+	"backlist_domains": [
+			{
+				"domain":"20minutes.fr",
+				"description":"20 Minutes"
+			},
+			{
+				"domain":"afp.com",
+				"description":"Agence France-Presse"
+			},
+			{
+				"domain":"bfmtv.com",
+				"description":"BFMTV - Actualités en continu et info en direct et replay"
+			},
+			{
+				"domain":"canalplus.fr",
+				"description":"Canal+"
+			},
+			{
+				"domain":"cnews.fr",
+				"description":"CNEWS | Actualités, Infos et News en direct vidéo et replay"
+			},
+			{
+				"domain":"corsematin.com",
+				"description":"Corse Matin"
+			},
+			{
+				"domain":"courrier-picard.fr",
+				"description":"Courrier Picard - Info et actu locale, régionale et nationale"
+			},
+			{
+				"domain":"dna.fr",
+				"description":"DNA - les Dernières Nouvelles d'Alsace"
+			},
+			{
+				"domain":"elle.fr",
+				"description":"Magazine ELLE : magazine feminin mode, beauté, cuisine - Elle"
+			},
+			{
+				"domain":"euronews.com",
+				"description":"Euronews | Toute l'information internationale en direct"
+			},
+			{
+				"domain":"europe1.fr",
+				"description":"Europe 1 | Actualités et Infos en direct & replay"
+			},
+			{
+				"domain":"facebook.com",
+				"description":"Facebook"
+			},
+			{
+				"domain":"france2.fr",
+				"description":"France 2 Replay et Direct"
+			},
+			{
+				"domain":"france24.com",
+				"description":"France 24 - L'actualité internationale"
+			},
+			{
+				"domain":"france3.fr",
+				"description":"France 3 Replay et Direct - Programmes, séries et vidéos"
+			},
+			{
+				"domain":"france5.fr",
+				"description":"France 5 Replay et Direct - Programmes, documentaires"
+			},
+			{
+				"domain":"francesoir.fr",
+				"description":"France Soir"
+			},
+			{
+				"domain":"humanite.fr",
+				"description":"L'Humanité"
+			},
+			{
+				"domain":"instagram.com",
+				"description":"Instagram"
+			},
+			{
+				"domain":"jeuxvideo.com",
+				"description":"jeuxvideo.com toute l'actualité du jeu vidéo et du hardware"
+			},
+			{
+				"domain":"korben.info",
+				"description":"Korben - Upgrade your mind"
+			},
+			{
+				"domain":"la-croix.com",
+				"description":"La Croix - Actualité en direct, informations France, Monde ..."
+			},
+			{
+				"domain":"lalsace.fr",
+				"description":"L'Alsace Le Pays"
+			},
+			{
+				"domain":"laprovence.com",
+				"description":"L'actualité politique, OM, sorties, sports à Marseille, Aix ..."
+			},
+			{
+				"domain":"latribune.fr",
+				"description":"Actualité économique et financière, bourse - Journal quotidien La Tribune"
+			},
+			{
+				"domain":"lavoixdunord.fr",
+				"description":"La Voix du Nord"
+			},
+			{
+				"domain":"lci.fr",
+				"description":"LCI en direct : info du jour en direct | TF1 INFO"
+			},
+			{
+				"domain":"ledauphine.com",
+				"description":"Le Dauphiné Libéré : info et actu nationale et régionale"
+			},
+			{
+				"domain":"lefigaro.fr",
+				"description":"Le Figaro - Actualité en direct et informations en continu"
+			},
+			{
+				"domain":"lehollandaisvolant.net",
+				"description":"Le Hollandais Volant"
+			},
+			{
+				"domain":"lemonde.fr",
+				"description":"Le Monde - Toute l'actualité en continu"
+			},
+			{
+				"domain":"leparisien.fr",
+				"description":"Actualités en direct et info en continu - Le Parisien"
+			},
+			{
+				"domain":"lepoint.fr",
+				"description":"Le Point – Actualité Politique, Monde, France, Économie, High Tech"
+			},
+			{
+				"domain":"leprogres.fr",
+				"description":"Le Progrès : info et actu nationale et régionale - Rhône, Loire ..."
+			},
+			{
+				"domain":"lequipe.fr",
+				"description":"L'Equipe"
+			},
+			{
+				"domain":"lesechos.fr",
+				"description":"Les Echos : actualités en direct, Économie, Finance, Marchés ..."
+			},
+			{
+				"domain":"letelegramme.com",
+				"description":"Le Télégramme de Brest"
+			},
+			{
+				"domain":"lexpansion.com",
+				"description":"L'Expansion - L'Express"
+			},
+			{
+				"domain":"lexpress.fr",
+				"description":"L'Express - Actualités Politique, Monde, Economie et Culture"
+			},
+			{
+				"domain":"libertedelest.fr",
+				"description":"La Liberté"
+			},
+			{
+				"domain":"lyonne-republicaine.fr",
+				"description":"L'Yonne Républicaine"
+			},
+			{
+				"domain":"liberation.fr",
+				"description":"Libération - Actualité en direct, infos en France et dans le monde"
+			},
+			{
+				"domain":"lunion.fr",
+				"description":"L'Union de Reims"
+			},
+			{
+				"domain":"m6.fr",
+				"description":"6play, regardez des programmes TV en Replay ou en Direct"
+			},
+			{
+				"domain":"metronews.fr",
+				"description":"MetroNews"
+			},
+			{
+				"domain":"midilibre.com",
+				"description":"Midi Libre"
+			},
+			{
+				"domain":"midilibre.fr",
+				"description":"Actualité : Toute l'actualité en Occitanie"
+			},
+			{
+				"domain":"nextinpact.com",
+				"description":"Next INpact - Actualités informatique et numérique au quotidien"
+			},
+			{
+				"domain":"nicematin.com",
+				"description":"Actualités et infos en direct - Nice-Matin"
+			},
+			{
+				"domain":"nouvelobs.com",
+				"description":"L'Obs - Actualités du jour en direct"
+			},
+			{
+				"domain":"numerama.com",
+				"description":"Numerama, le média de référence sur la société numérique et ..."
+			},
+			{
+				"domain":"objeko.com",
+				"description":"Objeko.com - Vos actualités !"
+			},
+			{
+				"domain":"ouest-france.fr",
+				"description":"Ouest-France : toute l'actualité en direct, l'info en continu en ..."
+			},
+			{
+				"domain":"parismatch.com",
+				"description":"Paris Match"
+			},
+			{
+				"domain":"paris-normandie.fr",
+				"description":"Paris Normandie"
+			},
+			{
+				"domain":"radiofrance.fr",
+				"description":"Radio France | Écoutez en ligne vos radios"
+			},
+			{
+				"domain":"republicain-lorrain.fr",
+				"description":"Le Républicain Lorrain - L'info en direct et en continu, en ..."
+			},
+			{
+				"domain":"rfi.fr",
+				"description":"RFI.fr - L'actualité internationale"
+			},
+			{
+				"domain":"rtl.fr",
+				"description":"Toute l'actualité en direct et en vidéo sur RTL.fr : politique ..."
+			},
+			{
+				"domain":"rugbyrama.fr",
+				"description":"Midi Olympique"
+			},
+			{
+				"domain":"sudouest.fr",
+				"description":"Sud Ouest : actualités en direct et infos du journal Sudouest.fr"
+			},
+			{
+				"domain":"tf1.fr",
+				"description":"MYTF1 : TF1, TMC, TFX et TF1 Séries Films en replay ou en ..."
+			},
+			{
+				"domain":"tf1info.fr",
+				"description":"TF1 INFO - Actualités du jour, l'info en direct"
+			},
+			{
+				"domain":"tiktok.com",
+				"description":"TikTok - Make Your Day"
+			},
+			{
+				"domain":"tv5.org",
+				"description":"TV5MONDE : TV internationale francophone : Info, Jeux ..."
+			},
+			{
+				"domain":"tv5monde.com",
+				"description":"TV5MONDE"
+			},
+			{
+				"domain":"tv5mondeplus.com",
+				"description":"TV5MONDEplus: Séries, Films, Documentaires Francophones ..."
+			},
+			{
+				"domain":"twitter.com",
+				"description":"Twitter. It's what's happening / Twitter"
+			}			
+		]
+}
