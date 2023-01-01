@@ -52,7 +52,7 @@ console.log("Repel prêt !");
 
 chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
 
-	if(tab.url.includes('youtube.com') && (tab.url.includes('watch?') || tab.url.includes('/channel/') || tab.url.includes('/c/') || tab.url.includes('/user/') ))
+	if(tab.url.includes('youtube.com') && (tab.url.includes('watch?') || tab.url.includes('/channel/') || tab.url.includes('/c/') || tab.url.includes('/user/') || tab.url.includes('/@') ))
 		{
 		if(!tab.url.includes('#loaded'))
 			{
