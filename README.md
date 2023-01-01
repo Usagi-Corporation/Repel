@@ -6,7 +6,7 @@ Testé avec Google Chrome Version 108.0.5359.125 (Build officiel) (64 bits) sous
 
 ## Comment l'utiliser ?
 
-1. Ajouter l'extension en mode Développeur (Testé avec Google Chrome sous Windows 11)
+1. Ajouter l'extension en mode Développeur
 2. Modifier le fichier blacklist/WEBblacklist.json pour ajouter / supprimer les domaines WEB dans la liste noire
 3. Modifier le fichier blacklist/YTblacklist.json pour ajouter / supprimer les chaînes YouTube dans la liste noire
 4. Recharger l'extension / redémarrer Google Chrome
