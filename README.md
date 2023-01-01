@@ -22,7 +22,7 @@ Cliquer sur l'icône de l'extension lorsque l'onglet concerné est chargé : vou
 Eléments présents dans le fichier blacklist/WEBblacklist.json
 
 - Sites d'information FR : 20 Minutes, Agence France-Presse, BFMTV, Canal+, CNEWS, Corse Matin, Courrier Picard, DNA, Magazine ELLE, Euronews, Europe 1, France 2, France 24, France 3, France 5, France Soir, L'Humanité, La Croix, L'Alsace Le Pays, laprovence.com, La Tribune, La Voix du Nord, LCI, Le Dauphiné Libéré, Le Figaro, Le Monde, Le Parisien, Le Point, Le Progrès, L'Equipe, Les Echos, Le Télégramme de Brest, L'Expansion, L'Express, libertedelest.fr, L'Yonne Républicaine, Libération, L'Union de Reims, 6play/M6, MetroNews, Midi Libre, Nice-Matin, L'Obs, Objeko, Ouest-France, Paris Match, Paris Normandie, Radio France, Le Républicain Lorrain, RFI.fr, RTL.fr, Midi Olympique, Sud Ouest, MYTF1, TF1 Info, TV5MONDE, 
-- Sites Centres d'intérêt FR : jeuxvideo.com, Korben, Le Hollandais Volant, Next INpact, Numerama
+- Sites Centres d'intérêt FR : jeuxvideo.com, Korben, Le Hollandais Volant, MGG (Millenium), Next INpact, Numerama
 - Réseaux sociaux : Facebook, Instagram, TikTok, Twitter, Twitch
 
 ## Liste des chaînes Youtube bloqués par défaut
