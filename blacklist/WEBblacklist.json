@@ -189,6 +189,10 @@
 				"description":"Actualité : Toute l'actualité en Occitanie"
 			},
 			{
+				"domain":"millenium.org",
+				"description":"MGG (Millenium) - Actualités eSport, tests de jeux et guides"
+			},
+			{
 				"domain":"nextinpact.com",
 				"description":"Next INpact - Actualités informatique et numérique au quotidien"
 			},
