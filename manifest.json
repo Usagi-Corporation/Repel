@@ -1,0 +1,39 @@
+{
+    // Comments are accepted in the manifest, even though it is JSON.
+    "manifest_version": 3,
+    "name": "Repel",
+    "description": "Extension bloquant les sites Internet et les chaînes Youtube listés dans blacklist",
+    "version": "2022.05.08",
+    "icons": {
+        "16": "logo/logo-16.png",
+        "48": "logo/logo-48.png",
+        "128": "logo/logo-128.png"
+    },
+    "options_page": "settings/settings.html",
+    "action": {
+        "default_title": "Repel",
+        "default_popup": "popup/popup.html"
+    },
+	"host_permissions": ["https://*/*"],
+    "permissions": [
+		"tabs",
+		"activeTab",
+		"scripting",
+		"storage"
+	],
+    "background": {
+        "service_worker": "service-worker.js"
+    },
+    "content_scripts": [{
+        "js": ["foreground.js"],
+        "matches": ["https://www.youtube.com/*"]
+    }],
+	"web_accessible_resources": [{
+	  "resources": ["blacklist/blacklist.html","blacklist/YTblacklist.json","blacklist/WEBblacklist.json","popup/popup.js"],
+	  "matches": ["<all_urls>"]
+	}],
+	"externally_connectable": {
+		"ids": ["*"],
+		"accepts_tls_channel_id": false
+    }
+}
