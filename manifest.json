@@ -3,7 +3,7 @@
     "manifest_version": 3,
     "name": "Repel",
     "description": "Extension bloquant les sites Internet et les chaînes Youtube listés dans blacklist",
-    "version": "2023.01.01",
+    "version": "2023.01.14",
     "icons": {
         "16": "logo/logo-16.png",
         "48": "logo/logo-48.png",
