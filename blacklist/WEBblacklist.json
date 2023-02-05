@@ -287,6 +287,10 @@
 			{
 				"domain":"twitter.com",
 				"description":"Twitter. It's what's happening / Twitter"
-			}			
+			},
+			{
+				"domain":"youtube.com/shorts",
+				"description":"YouTube Shorts"
+			}				
 		]
 }
