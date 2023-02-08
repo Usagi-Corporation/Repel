@@ -281,10 +281,6 @@
 				"description":"TV5MONDEplus: Séries, Films, Documentaires Francophones ..."
 			},
 			{
-				"domain":"twitch.tv",
-				"description":"Twitch"
-			},
-			{
 				"domain":"twitter.com",
 				"description":"Twitter. It's what's happening / Twitter"
 			},
